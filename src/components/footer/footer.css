@@ -1,0 +1,19 @@
+.footer{
+    background: whitesmoke;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.footer__text{
+    line-height: 25px;
+    color: black;
+}
+.footer__quick-links ul li{
+    background: transparent !important;
+}
+
+.quick__links-title{
+    margin-bottom: 20px;
+    font-weight: 600;
+
+}
+

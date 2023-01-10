@@ -1,0 +1,21 @@
+
+
+.checkout__cart{
+    padding: 20px;
+    background: whitesmoke;
+    color: black ;
+    border-radius: 5px;
+}
+.checkout__cart h6, h4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.checkout__cart h6{
+    margin-bottom: 4px;
+}
+.checkout__cart h4{
+    border-top: 1px solid black ;
+    padding-top: 20px;
+
+}

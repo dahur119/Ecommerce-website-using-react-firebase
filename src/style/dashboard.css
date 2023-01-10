@@ -1,0 +1,20 @@
+.revenue__box, .order__box, .products__box, .user__box{
+    padding: 20px;
+    border-radius: 5px;
+}
+.revenue__box{
+    background: whitesmoke;
+}
+.order__box{
+    background: wheat;
+}
+.products__box{
+    background: whitesmoke;
+}
+.user__box{
+    background: wheat;
+}
+
+.revenue__box h5, .order__box h5, .products__box h5, .user__box h5{
+    margin-bottom: 20px;
+}
